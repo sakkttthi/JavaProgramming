@@ -24,6 +24,5 @@ public class DecisionMaking {
 			System.out.println("Please enter correct city");
 			break;
 		}
-
 	}
 }

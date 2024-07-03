@@ -1,4 +1,4 @@
-package basics;
+package variables;
 
 public class DataTypePrimitive {
 	public static void main(String[] args) {
