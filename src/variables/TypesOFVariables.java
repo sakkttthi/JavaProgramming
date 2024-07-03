@@ -1,4 +1,4 @@
-package basics;
+package variables;
 
 public class TypesOFVariables {
 	int ist = 50; // instance variable
